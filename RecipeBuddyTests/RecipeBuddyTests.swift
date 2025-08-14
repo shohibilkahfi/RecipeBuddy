@@ -5,13 +5,11 @@
 //  Created by Orenda M1 on 13/08/25.
 //
 
-import Testing
+import XCTest
 @testable import RecipeBuddy
 
-struct RecipeBuddyTests {
-
-    @Test func example() async throws {
-        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+final class RecipeBuddyTests: XCTestCase {
+    func test_example() throws {
+        XCTAssertTrue(true)
     }
-
 }
