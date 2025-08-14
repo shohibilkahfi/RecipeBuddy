@@ -23,7 +23,7 @@ SwiftUI + MVVM app to browse recipes, view details, favorite, plan weekly meals,
 ## Tests & Coverage
 - Run with **⌘U** (XCTest)
 - Unit tests: JSON decoding, `RecipeListViewModel` (load/search/filter/sort)
-- (Optional) Screenshots in `docs/` (tests & coverage)
+- Screenshots (tests & coverage) : https://drive.google.com/drive/folders/1JgM2k4iSEJS8H3HcUtOKCUZvfGONNGc2?usp=sharing
 
 ## With More Time
 - Persist ingredient checkmarks per recipe
